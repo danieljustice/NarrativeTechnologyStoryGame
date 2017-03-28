@@ -1,0 +1,6270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Skein rootNode="node-0x10e57a0" xmlns="http://www.logicalshift.org.uk/IF/Skein">
+  <generator>Inform 7</generator>
+  <activeNode nodeId="node-0x10e57a0"/>
+  <item nodeId="node-0x10e57a0">
+    <command xml:space="preserve">- start -</command>
+    <result xml:space="preserve">
+
+
+FirstProj
+An Interactive Fiction by Daniel Justice
+Release 1 / Serial number 170327 / Inform 7 build 6M62 (I6/v6.33 lib 6/12N) SD
+
+Aisle
+Shops all around.
+
+You can see Daughter here.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x10e5920"/>
+      <child nodeId="node-0x1a00730"/>
+      <child nodeId="node-0x1ae54b0"/>
+      <child nodeId="node-0x1b59740"/>
+      <child nodeId="node-0x1b59ec0"/>
+      <child nodeId="node-0x1e5a460"/>
+      <child nodeId="node-0x1ec1790"/>
+      <child nodeId="node-0x1f28130"/>
+      <child nodeId="node-0x21f0310"/>
+    </children>
+  </item>
+  <item nodeId="node-0x10e5920">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">
+Northern Aisle
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x10e5aa0"/>
+      <child nodeId="node-0x196fd50"/>
+      <child nodeId="node-0x19d71c0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x10e5aa0">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">
+Aisle
+Shops all around.
+
+You can see Daughter here.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x10e5c20"/>
+    </children>
+  </item>
+  <item nodeId="node-0x10e5c20">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">
+Southern Aisle
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x10e5da0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x10e5da0">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">
+Aisle
+Shops all around.
+
+You can see Daughter here.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x10e5f20"/>
+    </children>
+  </item>
+  <item nodeId="node-0x10e5f20">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">
+Northern Aisle
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x196f150"/>
+    </children>
+  </item>
+  <item nodeId="node-0x196f150">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">
+Aisle
+Shops all around.
+
+You can see Daughter here.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x196f2d0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x196f2d0">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">
+Southern Aisle
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x196f450"/>
+    </children>
+  </item>
+  <item nodeId="node-0x196f450">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">You can&apos;t go that way.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x196f5d0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x196f5d0">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">You can&apos;t go that way.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x196f750"/>
+    </children>
+  </item>
+  <item nodeId="node-0x196f750">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">You can&apos;t go that way.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x196f8d0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x196f8d0">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">You can&apos;t go that way.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x196fa50"/>
+    </children>
+  </item>
+  <item nodeId="node-0x196fa50">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">You can&apos;t go that way.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x196fbd0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x196fbd0">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">You can&apos;t go that way.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+  </item>
+  <item nodeId="node-0x196fd50">
+    <command xml:space="preserve">look</command>
+    <result xml:space="preserve">Northern Aisle
+[Your score has just gone down by ten points.]
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x196fed0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x196fed0">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">You can&apos;t go that way.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1999110"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1999110">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">You can&apos;t go that way.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1999290"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1999290">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">
+Aisle
+Shops all around.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1999410"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1999410">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">
+Shop 5
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1999590"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1999590">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">You can&apos;t go that way.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1999710"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1999710">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">You can&apos;t go that way.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1999890"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1999890">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">
+Aisle
+Shops all around.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1999a10"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1999a10">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">
+Southern Aisle
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1999b90"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1999b90">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">You can&apos;t go that way.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1999d10"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1999d10">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">You can&apos;t go that way.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1999e90"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1999e90">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">You can&apos;t go that way.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+  </item>
+  <item nodeId="node-0x19d71c0">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">
+Victoria&apos;s Secret
+The most awkward store for a Dad to enter.  Your Daughter is far too young for this store.
+
+You can see Underwear and Push-Up Bra here.
+
+Your Daughter has moved to Sephora Shop
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x19d7340"/>
+      <child nodeId="node-0x19d77c0"/>
+      <child nodeId="node-0x19d7c40"/>
+      <child nodeId="node-0x1a00430"/>
+    </children>
+  </item>
+  <item nodeId="node-0x19d7340">
+    <command xml:space="preserve">l</command>
+    <result xml:space="preserve">Victoria&apos;s Secret
+The most awkward store for a Dad to enter.  Your Daughter is far too young for this store.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x19d74c0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x19d74c0">
+    <command xml:space="preserve">examine</command>
+    <result xml:space="preserve">What do you want to examine?
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x19d7640"/>
+    </children>
+  </item>
+  <item nodeId="node-0x19d7640">
+    <command xml:space="preserve">l</command>
+    <result xml:space="preserve">Victoria&apos;s Secret
+The most awkward store for a Dad to enter.  Your Daughter is far too young for this store.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+  </item>
+  <item nodeId="node-0x19d77c0">
+    <command xml:space="preserve">x Underwear</command>
+    <result xml:space="preserve">The back side says &quot;Too Hot For You.&quot; But you know its not too hot for you, its room temperature to the touch. Your Daughter probably needs to know this.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x19d7940"/>
+    </children>
+  </item>
+  <item nodeId="node-0x19d7940">
+    <command xml:space="preserve">take Underwear</command>
+    <result xml:space="preserve">Taken.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x19d7ac0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x19d7ac0">
+    <command xml:space="preserve">inventory</command>
+    <result xml:space="preserve">You are carrying:
+  Underwear
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+  </item>
+  <item nodeId="node-0x19d7c40">
+    <command xml:space="preserve">take P</command>
+    <result xml:space="preserve">You can&apos;t see any such thing.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x19d7dc0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x19d7dc0">
+    <command xml:space="preserve">take Push-Up Bra</command>
+    <result xml:space="preserve">Taken.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x19d7f40"/>
+    </children>
+  </item>
+  <item nodeId="node-0x19d7f40">
+    <command xml:space="preserve">inventory</command>
+    <result xml:space="preserve">You are carrying:
+  Push-Up Bra
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1a00130"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1a00130">
+    <command xml:space="preserve">x Push</command>
+    <result xml:space="preserve">You can&apos;t see any such thing.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1a002b0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1a002b0">
+    <command xml:space="preserve">x push-up bra</command>
+    <result xml:space="preserve">Looks more like two turtle shells than an article of clothing. Your daughter probably needs to be reminded of the Ninja Turtles.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+  </item>
+  <item nodeId="node-0x1a00430">
+    <command xml:space="preserve">take underwear</command>
+    <result xml:space="preserve">Taken.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1a005b0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1a005b0">
+    <command xml:space="preserve">drop underwear</command>
+    <result xml:space="preserve">Dropped.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+  </item>
+  <item nodeId="node-0x1a00730">
+    <command xml:space="preserve">look</command>
+    <result xml:space="preserve">Aisle
+Shops all around.
+
+You can see Daughter here.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1a008b0"/>
+      <child nodeId="node-0x1a3f8b0"/>
+      <child nodeId="node-0x1a3fa30"/>
+      <child nodeId="node-0x1a3feb0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1a008b0">
+    <command xml:space="preserve">up</command>
+    <result xml:space="preserve">You can&apos;t go that way.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1a00a30"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1a00a30">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">
+Northern Aisle
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1a00bb0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1a00bb0">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">
+Aisle
+Shops all around.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1a00d30"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1a00d30">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">
+Southern Aisle
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1a00eb0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1a00eb0">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">You can&apos;t go that way.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1a3f130"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1a3f130">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">
+Aisle
+Shops all around.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1a3f2b0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1a3f2b0">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">
+Shop 5
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1a3f430"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1a3f430">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">
+Aisle
+Shops all around.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1a3f5b0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1a3f5b0">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">
+Shop 2
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1a3f730"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1a3f730">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">
+Aisle
+Shops all around.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+  </item>
+  <item nodeId="node-0x1a3f8b0">
+    <command xml:space="preserve">examine Daughter</command>
+    <result xml:space="preserve">She&apos;s perfect, but she needs to stop shopping.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+  </item>
+  <item nodeId="node-0x1a3fa30">
+    <command xml:space="preserve">look</command>
+    <result xml:space="preserve">Aisle
+Shops all around.
+
+You can see Daughter here.
+
+[Your score has just gone down by ten points.]
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1a3fbb0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1a3fbb0">
+    <command xml:space="preserve">look</command>
+    <result xml:space="preserve">Aisle
+Shops all around.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1a3fd30"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1a3fd30">
+    <command xml:space="preserve">look</command>
+    <result xml:space="preserve">Aisle
+Shops all around.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+  </item>
+  <item nodeId="node-0x1a3feb0">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">
+Northern Aisle
+[Your score has just gone down by ten points.]
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1a67180"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1a67180">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">You can&apos;t go that way.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1a67300"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1a67300">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">
+Shop 1
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1a67480"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1a67480">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">
+Northern Aisle
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1a67600"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1a67600">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">
+Shop 4
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1a67780"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1a67780">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">You can&apos;t go that way.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1a67900"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1a67900">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">
+Northern Aisle
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1a67a80"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1a67a80">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">
+Aisle
+Shops all around.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1a67c00"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1a67c00">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">
+Southern Aisle
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1a67d80"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1a67d80">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">
+Shop 3
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1a67f00"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1a67f00">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">
+Southern Aisle
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1aa51b0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1aa51b0">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">
+Shop 6
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1aa5330"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1aa5330">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">
+Southern Aisle
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1aa54b0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1aa54b0">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">
+Aisle
+Shops all around.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1aa5630"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1aa5630">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">
+Shop 2
+You can see Daughter here.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1aa57b0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1aa57b0">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">
+Aisle
+Shops all around.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1aa5930"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1aa5930">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">
+Shop 5
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1aa5ab0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1aa5ab0">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">
+Aisle
+Shops all around.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1aa5c30"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1aa5c30">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">
+Northern Aisle
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1aa5db0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1aa5db0">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">
+Shop 4
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1aa5f30"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1aa5f30">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">
+Northern Aisle
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1ae51b0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1ae51b0">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">
+Shop 1
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1ae5330"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1ae5330">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">
+Northern Aisle
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+  </item>
+  <item nodeId="node-0x1ae54b0">
+    <command xml:space="preserve">a</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1ae5630"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1ae5630">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">
+Northern Aisle
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1ae57b0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1ae57b0">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">
+Aisle
+Shops all around.
+
+You can see Daughter here.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1ae5930"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1ae5930">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">
+Southern Aisle
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1ae5ab0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1ae5ab0">
+    <command xml:space="preserve">u</command>
+    <result xml:space="preserve">You can&apos;t go that way.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1ae5c30"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1ae5c30">
+    <command xml:space="preserve">u</command>
+    <result xml:space="preserve">You can&apos;t go that way.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1ae5db0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1ae5db0">
+    <command xml:space="preserve">u</command>
+    <result xml:space="preserve">You can&apos;t go that way.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1ae5f30"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1ae5f30">
+    <command xml:space="preserve">u</command>
+    <result xml:space="preserve">You can&apos;t go that way.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1b32150"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1b32150">
+    <command xml:space="preserve">u</command>
+    <result xml:space="preserve">You can&apos;t go that way.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1b322d0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1b322d0">
+    <command xml:space="preserve">u</command>
+    <result xml:space="preserve">You can&apos;t go that way.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1b32450"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1b32450">
+    <command xml:space="preserve">u</command>
+    <result xml:space="preserve">You can&apos;t go that way.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1b325d0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1b325d0">
+    <command xml:space="preserve">u</command>
+    <result xml:space="preserve">You can&apos;t go that way.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1b32750"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1b32750">
+    <command xml:space="preserve">u</command>
+    <result xml:space="preserve">You can&apos;t go that way.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1b328d0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1b328d0">
+    <command xml:space="preserve">u</command>
+    <result xml:space="preserve">You can&apos;t go that way.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1b32a50"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1b32a50">
+    <command xml:space="preserve">a</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1b32bd0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1b32bd0">
+    <command xml:space="preserve">a</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1b32d50"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1b32d50">
+    <command xml:space="preserve">a</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1b32ed0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1b32ed0">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">You can&apos;t go that way.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1b59140"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1b59140">
+    <command xml:space="preserve">u</command>
+    <result xml:space="preserve">You can&apos;t go that way.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1b592c0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1b592c0">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">
+Aisle
+Shops all around.
+
+You can see Daughter here.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1b59440"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1b59440">
+    <command xml:space="preserve">x Daughter</command>
+    <result xml:space="preserve">She&apos;s perfect, but she needs to stop shopping.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1b595c0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1b595c0">
+    <command xml:space="preserve">x Daughter</command>
+    <result xml:space="preserve">She&apos;s perfect, but she needs to stop shopping.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+  </item>
+  <item nodeId="node-0x1b59740">
+    <command xml:space="preserve">up</command>
+    <result xml:space="preserve">You can&apos;t go that way.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1b598c0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1b598c0">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">
+Northern Aisle
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1b59a40"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1b59a40">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">
+Aisle
+Shops all around.
+
+You can see Daughter here.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1b59bc0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1b59bc0">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">
+Southern Aisle
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1b59d40"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1b59d40">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">
+Aisle
+Shops all around.
+
+You can see Daughter here.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+  </item>
+  <item nodeId="node-0x1b59ec0">
+    <command xml:space="preserve">l</command>
+    <result xml:space="preserve">Aisle
+Shops all around.
+
+You can see Daughter here.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1b971a0"/>
+      <child nodeId="node-0x1e32d10"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1b971a0">
+    <command xml:space="preserve">l</command>
+    <result xml:space="preserve">Aisle
+Shops all around.
+
+You can see Daughter here.
+
+Your Daughter has moved to Music Shop
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1b97320"/>
+      <child nodeId="node-0x1cfaa10"/>
+      <child nodeId="node-0x1e32b90"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1b97320">
+    <command xml:space="preserve">l</command>
+    <result xml:space="preserve">Aisle
+Shops all around.
+
+You can see Daughter here.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1b974a0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1b974a0">
+    <command xml:space="preserve">l</command>
+    <result xml:space="preserve">Aisle
+Shops all around.
+
+You can see Daughter here.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1b97620"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1b97620">
+    <command xml:space="preserve">l</command>
+    <result xml:space="preserve">Aisle
+Shops all around.
+
+You can see Daughter here.
+
+Your Daughter has bought an item and moved to Shop 2
+[Your score has just gone down by thirty-three points.]
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1b977a0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1b977a0">
+    <command xml:space="preserve">l</command>
+    <result xml:space="preserve">Aisle
+Shops all around.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1b97920"/>
+      <child nodeId="node-0x1cd2da0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1b97920">
+    <command xml:space="preserve">l</command>
+    <result xml:space="preserve">Aisle
+Shops all around.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1b97aa0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1b97aa0">
+    <command xml:space="preserve">l</command>
+    <result xml:space="preserve">Aisle
+Shops all around.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1b97c20"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1b97c20">
+    <command xml:space="preserve">l</command>
+    <result xml:space="preserve">Aisle
+Shops all around.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1b97da0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1b97da0">
+    <command xml:space="preserve">l</command>
+    <result xml:space="preserve">Aisle
+Shops all around.
+
+Your Daughter has bought an item and moved to Shop 2
+[Your score has just gone down by eighteen points.]
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1b97f20"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1b97f20">
+    <command xml:space="preserve">l</command>
+    <result xml:space="preserve">Aisle
+Shops all around.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1bbe190"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1bbe190">
+    <command xml:space="preserve">l</command>
+    <result xml:space="preserve">Aisle
+Shops all around.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1bbe310"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1bbe310">
+    <command xml:space="preserve">l</command>
+    <result xml:space="preserve">Aisle
+Shops all around.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1bbe490"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1bbe490">
+    <command xml:space="preserve">l</command>
+    <result xml:space="preserve">Aisle
+Shops all around.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1bbe610"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1bbe610">
+    <command xml:space="preserve">l</command>
+    <result xml:space="preserve">Aisle
+Shops all around.
+
+Your Daughter has bought an item and moved to Shop 4
+[Your score has just gone down by one hundred and sixty-eight points.]
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1bbe790"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1bbe790">
+    <command xml:space="preserve">l</command>
+    <result xml:space="preserve">Aisle
+Shops all around.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1bbe910"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1bbe910">
+    <command xml:space="preserve">l</command>
+    <result xml:space="preserve">Aisle
+Shops all around.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1bbea90"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1bbea90">
+    <command xml:space="preserve">l</command>
+    <result xml:space="preserve">Aisle
+Shops all around.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1bbec10"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1bbec10">
+    <command xml:space="preserve">l</command>
+    <result xml:space="preserve">Aisle
+Shops all around.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1bbed90"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1bbed90">
+    <command xml:space="preserve">l</command>
+    <result xml:space="preserve">Aisle
+Shops all around.
+
+Your Daughter has bought an item and moved to Shop 2
+[Your score has just gone down by thirteen points.]
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1bbef10"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1bbef10">
+    <command xml:space="preserve">l</command>
+    <result xml:space="preserve">Aisle
+Shops all around.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1bfd100"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1bfd100">
+    <command xml:space="preserve">ll</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1bfd280"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1bfd280">
+    <command xml:space="preserve">l</command>
+    <result xml:space="preserve">Aisle
+Shops all around.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1bfd400"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1bfd400">
+    <command xml:space="preserve">l</command>
+    <result xml:space="preserve">Aisle
+Shops all around.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1bfd580"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1bfd580">
+    <command xml:space="preserve">l</command>
+    <result xml:space="preserve">Aisle
+Shops all around.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1bfd700"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1bfd700">
+    <command xml:space="preserve">l</command>
+    <result xml:space="preserve">Aisle
+Shops all around.
+
+Your Daughter has bought an item and moved to Shop 4
+[Your score has just gone down by ninety-six points.]
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1bfd880"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1bfd880">
+    <command xml:space="preserve">l</command>
+    <result xml:space="preserve">Aisle
+Shops all around.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1bfda00"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1bfda00">
+    <command xml:space="preserve">l</command>
+    <result xml:space="preserve">Aisle
+Shops all around.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1bfdb80"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1bfdb80">
+    <command xml:space="preserve">l</command>
+    <result xml:space="preserve">Aisle
+Shops all around.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1bfdd00"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1bfdd00">
+    <command xml:space="preserve">l</command>
+    <result xml:space="preserve">Aisle
+Shops all around.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1bfde80"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1bfde80">
+    <command xml:space="preserve">l</command>
+    <result xml:space="preserve">Aisle
+Shops all around.
+
+Your Daughter has bought an item and moved to Shop 6
+[Your score has just gone down by one hundred and sixty-eight points.]
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1c26130"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1c26130">
+    <command xml:space="preserve">l</command>
+    <result xml:space="preserve">Aisle
+Shops all around.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1c262b0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1c262b0">
+    <command xml:space="preserve">ll</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1c26430"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1c26430">
+    <command xml:space="preserve">l</command>
+    <result xml:space="preserve">Aisle
+Shops all around.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1c265b0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1c265b0">
+    <command xml:space="preserve">l</command>
+    <result xml:space="preserve">Aisle
+Shops all around.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1c26730"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1c26730">
+    <command xml:space="preserve">l</command>
+    <result xml:space="preserve">Aisle
+Shops all around.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1c268b0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1c268b0">
+    <command xml:space="preserve">l</command>
+    <result xml:space="preserve">Aisle
+Shops all around.
+
+Your Daughter has bought an item and moved to Shop 5
+[Your score has just gone down by sixty-two points.]
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1c26a30"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1c26a30">
+    <command xml:space="preserve">l</command>
+    <result xml:space="preserve">Aisle
+Shops all around.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1c26bb0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1c26bb0">
+    <command xml:space="preserve">l</command>
+    <result xml:space="preserve">Aisle
+Shops all around.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1c26d30"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1c26d30">
+    <command xml:space="preserve">l</command>
+    <result xml:space="preserve">Aisle
+Shops all around.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1c26eb0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1c26eb0">
+    <command xml:space="preserve">l</command>
+    <result xml:space="preserve">Aisle
+Shops all around.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1c63150"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1c63150">
+    <command xml:space="preserve">l</command>
+    <result xml:space="preserve">Aisle
+Shops all around.
+
+Your Daughter has bought an item and moved to Shop 4
+[Your score has just gone down by one hundred and eleven points.]
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1c632d0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1c632d0">
+    <command xml:space="preserve">l</command>
+    <result xml:space="preserve">Aisle
+Shops all around.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1c63450"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1c63450">
+    <command xml:space="preserve">l</command>
+    <result xml:space="preserve">Aisle
+Shops all around.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1c635d0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1c635d0">
+    <command xml:space="preserve">l</command>
+    <result xml:space="preserve">Aisle
+Shops all around.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1c63750"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1c63750">
+    <command xml:space="preserve">l</command>
+    <result xml:space="preserve">Aisle
+Shops all around.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1c638d0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1c638d0">
+    <command xml:space="preserve">l</command>
+    <result xml:space="preserve">Aisle
+Shops all around.
+
+Your Daughter has bought an item and moved to Shop 2
+[Your score has just gone down by one hundred and thirty points.]
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1c63a50"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1c63a50">
+    <command xml:space="preserve">l</command>
+    <result xml:space="preserve">Aisle
+Shops all around.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1c63bd0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1c63bd0">
+    <command xml:space="preserve">l</command>
+    <result xml:space="preserve">Aisle
+Shops all around.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1c63d50"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1c63d50">
+    <command xml:space="preserve">l</command>
+    <result xml:space="preserve">Aisle
+Shops all around.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1c63ed0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1c63ed0">
+    <command xml:space="preserve">l</command>
+    <result xml:space="preserve">Aisle
+Shops all around.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1c8c1a0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1c8c1a0">
+    <command xml:space="preserve">l</command>
+    <result xml:space="preserve">Aisle
+Shops all around.
+
+Your Daughter has bought an item and moved to Shop 5
+[Your score has just gone down by thirty-six points.]
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1c8c320"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1c8c320">
+    <command xml:space="preserve">l</command>
+    <result xml:space="preserve">Aisle
+Shops all around.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1c8c4a0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1c8c4a0">
+    <command xml:space="preserve">l</command>
+    <result xml:space="preserve">Aisle
+Shops all around.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1c8c620"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1c8c620">
+    <command xml:space="preserve">l</command>
+    <result xml:space="preserve">Aisle
+Shops all around.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1c8c7a0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1c8c7a0">
+    <command xml:space="preserve">l</command>
+    <result xml:space="preserve">Aisle
+Shops all around.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1c8c920"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1c8c920">
+    <command xml:space="preserve">l</command>
+    <result xml:space="preserve">Aisle
+Shops all around.
+
+Your Daughter has bought an item and moved to Shop 2
+[Your score has just gone down by one hundred and seventy-three points.]
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1c8caa0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1c8caa0">
+    <command xml:space="preserve">l</command>
+    <result xml:space="preserve">Aisle
+Shops all around.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1c8cc20"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1c8cc20">
+    <command xml:space="preserve">l</command>
+    <result xml:space="preserve">Aisle
+Shops all around.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1c8cda0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1c8cda0">
+    <command xml:space="preserve">l</command>
+    <result xml:space="preserve">Aisle
+Shops all around.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1c8cf20"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1c8cf20">
+    <command xml:space="preserve">l</command>
+    <result xml:space="preserve">Aisle
+Shops all around.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1cd21a0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1cd21a0">
+    <command xml:space="preserve">l</command>
+    <result xml:space="preserve">Aisle
+Shops all around.
+
+Your Daughter has bought an item and moved to Shop 2
+[Your score has just gone down by one hundred and forty-five points.]
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1cd2320"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1cd2320">
+    <command xml:space="preserve">l</command>
+    <result xml:space="preserve">Aisle
+Shops all around.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1cd24a0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1cd24a0">
+    <command xml:space="preserve">l</command>
+    <result xml:space="preserve">Aisle
+Shops all around.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1cd2620"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1cd2620">
+    <command xml:space="preserve">l</command>
+    <result xml:space="preserve">Aisle
+Shops all around.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1cd27a0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1cd27a0">
+    <command xml:space="preserve">l</command>
+    <result xml:space="preserve">Aisle
+Shops all around.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1cd2920"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1cd2920">
+    <command xml:space="preserve">l</command>
+    <result xml:space="preserve">Aisle
+Shops all around.
+
+Your Daughter has bought an item and moved to Shop 6
+[Your score has just gone down by seventy-three points.]
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1cd2aa0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1cd2aa0">
+    <command xml:space="preserve">l</command>
+    <result xml:space="preserve">Aisle
+Shops all around.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1cd2c20"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1cd2c20">
+    <command xml:space="preserve">l</command>
+    <result xml:space="preserve">Aisle
+Shops all around.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+  </item>
+  <item nodeId="node-0x1cd2da0">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">
+Northern Aisle
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1cd2f20"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1cd2f20">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">
+Aisle
+Shops all around.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1cfa110"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1cfa110">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">
+Southern Aisle
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1cfa290"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1cfa290">
+    <command xml:space="preserve"></command>
+    <result xml:space="preserve">I beg your pardon?
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1cfa410"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1cfa410">
+    <command xml:space="preserve">m</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1cfa590"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1cfa590">
+    <command xml:space="preserve">m</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1cfa710"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1cfa710">
+    <command xml:space="preserve"></command>
+    <result xml:space="preserve">I beg your pardon?
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1cfa890"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1cfa890">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">
+Aisle
+Shops all around.
+
+[Your score has just gone down by eighty-eight points.]
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+  </item>
+  <item nodeId="node-0x1cfaa10">
+    <command xml:space="preserve">ll</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1cfab90"/>
+      <child nodeId="node-0x1d37440"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1cfab90">
+    <command xml:space="preserve">l</command>
+    <result xml:space="preserve">Aisle
+Shops all around.
+
+You can see Daughter here.
+
+L has Shop 2 entries.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1cfad10"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1cfad10">
+    <command xml:space="preserve">ll</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1cfae90"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1cfae90">
+    <command xml:space="preserve">l</command>
+    <result xml:space="preserve">Aisle
+Shops all around.
+
+You can see Daughter here.
+
+L has Shop 2 entries.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1d37140"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1d37140">
+    <command xml:space="preserve">l</command>
+    <result xml:space="preserve">Aisle
+Shops all around.
+
+You can see Daughter here.
+
+L has Shop 2 entries.
+
+[Your score has just gone down by one hundred and sixty-six points.]
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1d372c0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1d372c0">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">
+Shop 2
+You can see Daughter here.
+
+L has Shop 2 entries.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+  </item>
+  <item nodeId="node-0x1d37440">
+    <command xml:space="preserve"></command>
+    <result xml:space="preserve">I beg your pardon?
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1d375c0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1d375c0">
+    <command xml:space="preserve">l</command>
+    <result xml:space="preserve">Aisle
+Shops all around.
+
+You can see Daughter here.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1d37740"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1d37740">
+    <command xml:space="preserve">l</command>
+    <result xml:space="preserve">Aisle
+Shops all around.
+
+You can see Daughter here.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1d378c0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1d378c0">
+    <command xml:space="preserve"></command>
+    <result xml:space="preserve">I beg your pardon?
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1d37a40"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1d37a40">
+    <command xml:space="preserve">l</command>
+    <result xml:space="preserve">Aisle
+Shops all around.
+
+You can see Daughter here.
+
+Your Daughter has bought an item and moved to Shop 4
+[Your score has just gone down by twenty-two points.]
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1d37bc0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1d37bc0">
+    <command xml:space="preserve">ll</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1d37d40"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1d37d40">
+    <command xml:space="preserve"></command>
+    <result xml:space="preserve">I beg your pardon?
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1d37ec0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1d37ec0">
+    <command xml:space="preserve">l</command>
+    <result xml:space="preserve">Aisle
+Shops all around.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1d60180"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1d60180">
+    <command xml:space="preserve">l</command>
+    <result xml:space="preserve">Aisle
+Shops all around.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1d60300"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1d60300">
+    <command xml:space="preserve">l</command>
+    <result xml:space="preserve">Aisle
+Shops all around.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1d60480"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1d60480">
+    <command xml:space="preserve">l</command>
+    <result xml:space="preserve">Aisle
+Shops all around.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1d60600"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1d60600">
+    <command xml:space="preserve">l</command>
+    <result xml:space="preserve">Aisle
+Shops all around.
+
+Your Daughter has bought an item and moved to Shop 1
+[Your score has just gone down by twenty-seven points.]
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1d60780"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1d60780">
+    <command xml:space="preserve">l</command>
+    <result xml:space="preserve">Aisle
+Shops all around.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1d60900"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1d60900">
+    <command xml:space="preserve">l</command>
+    <result xml:space="preserve">Aisle
+Shops all around.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1d60a80"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1d60a80">
+    <command xml:space="preserve">l</command>
+    <result xml:space="preserve">Aisle
+Shops all around.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1d60c00"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1d60c00">
+    <command xml:space="preserve">l</command>
+    <result xml:space="preserve">Aisle
+Shops all around.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1d60d80"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1d60d80">
+    <command xml:space="preserve">l</command>
+    <result xml:space="preserve">Aisle
+Shops all around.
+
+Your Daughter has bought an item and moved to Shop 2
+[Your score has just gone down by one hundred and eighty points.]
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1d60f00"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1d60f00">
+    <command xml:space="preserve">l</command>
+    <result xml:space="preserve">Aisle
+Shops all around.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1d9d1b0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1d9d1b0">
+    <command xml:space="preserve">l</command>
+    <result xml:space="preserve">Aisle
+Shops all around.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1d9d330"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1d9d330">
+    <command xml:space="preserve">l</command>
+    <result xml:space="preserve">Aisle
+Shops all around.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1d9d4b0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1d9d4b0">
+    <command xml:space="preserve">l</command>
+    <result xml:space="preserve">Aisle
+Shops all around.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1d9d630"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1d9d630">
+    <command xml:space="preserve">l</command>
+    <result xml:space="preserve">Aisle
+Shops all around.
+
+Your Daughter has bought an item and moved to Shop 6
+[Your score has just gone down by one hundred and sixty-nine points.]
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1d9d7b0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1d9d7b0">
+    <command xml:space="preserve">l</command>
+    <result xml:space="preserve">Aisle
+Shops all around.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1d9d930"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1d9d930">
+    <command xml:space="preserve">l</command>
+    <result xml:space="preserve">Aisle
+Shops all around.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1d9dab0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1d9dab0">
+    <command xml:space="preserve">l</command>
+    <result xml:space="preserve">Aisle
+Shops all around.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1d9dc30"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1d9dc30">
+    <command xml:space="preserve">l</command>
+    <result xml:space="preserve">Aisle
+Shops all around.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1d9ddb0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1d9ddb0">
+    <command xml:space="preserve">l</command>
+    <result xml:space="preserve">Aisle
+Shops all around.
+
+Your Daughter has bought an item and moved to Shop 2
+[Your score has just gone down by seventy-nine points.]
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1d9df30"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1d9df30">
+    <command xml:space="preserve">l</command>
+    <result xml:space="preserve">Aisle
+Shops all around.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1ab9110"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1ab9110">
+    <command xml:space="preserve">l</command>
+    <result xml:space="preserve">Aisle
+Shops all around.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1ab9290"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1ab9290">
+    <command xml:space="preserve">l</command>
+    <result xml:space="preserve">Aisle
+Shops all around.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1ab9410"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1ab9410">
+    <command xml:space="preserve">l</command>
+    <result xml:space="preserve">Aisle
+Shops all around.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1ab9590"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1ab9590">
+    <command xml:space="preserve">l</command>
+    <result xml:space="preserve">Aisle
+Shops all around.
+
+Your Daughter has bought an item and moved to Shop 5
+[Your score has just gone down by forty-four points.]
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1ab9710"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1ab9710">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">
+Northern Aisle
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1ab9890"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1ab9890">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">
+Aisle
+Shops all around.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1ab9a10"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1ab9a10">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">
+Southern Aisle
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1ab9b90"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1ab9b90">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">
+Shop 6
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1ab9d10"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1ab9d10">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">
+Southern Aisle
+Your Daughter has bought an item and moved to Shop 1
+[Your score has just gone down by forty-four points.]
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1ab9e90"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1ab9e90">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">
+Shop 3
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1e32110"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1e32110">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">
+Southern Aisle
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1e32290"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1e32290">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">
+Aisle
+Shops all around.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1e32410"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1e32410">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">
+Northern Aisle
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1e32590"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1e32590">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">
+Shop 1
+You can see Daughter here.
+
+Your Daughter has bought an item and moved to Shop 2
+[Your score has just gone down by forty-three points.]
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1e32710"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1e32710">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">
+Northern Aisle
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1e32890"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1e32890">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">
+Aisle
+Shops all around.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1e32a10"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1e32a10">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">
+Shop 2
+You can see Daughter here.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+  </item>
+  <item nodeId="node-0x1e32b90">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">
+Music Shop
+ahhhhh the birthplace of greatness.
+
+You can see Daughter, a Guitar, a Tuba, a Trumpet and a Piano here.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+  </item>
+  <item nodeId="node-0x1e32d10">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">
+Music Shop
+ahhhhh the birthplace of greatness.
+
+You can see a Guitar, a Tuba, a Trumpet and a Piano here.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1e32e90"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1e32e90">
+    <command xml:space="preserve">take Guitar</command>
+    <result xml:space="preserve">Taken.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1e5a160"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1e5a160">
+    <command xml:space="preserve">take Tube</command>
+    <result xml:space="preserve">You can&apos;t see any such thing.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1e5a2e0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1e5a2e0">
+    <command xml:space="preserve">take Tuba</command>
+    <result xml:space="preserve">Hey (daughter),  What&apos;s the difference between a tuba and a vacuum cleaner? You have to turn one of them on before it sucks.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+  </item>
+  <item nodeId="node-0x1e5a460">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">
+Southern Aisle
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1e5a5e0"/>
+      <child nodeId="node-0x1e5a8e0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1e5a5e0">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">You can&apos;t go that way.
+
+[Your score has just gone down by ten points.]
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1e5a760"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1e5a760">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">You can&apos;t go that way.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+  </item>
+  <item nodeId="node-0x1e5a8e0">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">
+Sephora Shop
+Your Daughter can&apos;t find a concealer and asks the cashier for help, you come to the rescue with &quot;Wow, sounds like it&apos;s some good stuff then.&quot;
+
+You can see Watch and Fish Tank here.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1e5aa60"/>
+      <child nodeId="node-0x1e99490"/>
+      <child nodeId="node-0x1e99790"/>
+      <child nodeId="node-0x1e99a90"/>
+      <child nodeId="node-0x1e99d90"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1e5aa60">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">
+Southern Aisle
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1e5abe0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1e5abe0">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">
+Shop 6
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1e5ad60"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1e5ad60">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">
+Southern Aisle
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1e5aee0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1e5aee0">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">
+Aisle
+Shops all around.
+
+You can see Daughter here.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1e99190"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1e99190">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">
+Northern Aisle
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1e99310"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1e99310">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">
+Victoria&apos;s Secret
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+  </item>
+  <item nodeId="node-0x1e99490">
+    <command xml:space="preserve">x Watch</command>
+    <result xml:space="preserve">You see nothing special about Watch.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1e99610"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1e99610">
+    <command xml:space="preserve">take watch</command>
+    <result xml:space="preserve">It&apos;s a 300$ Watch. Dad says : I&apos;m not gonna fix that watch if you get it... becuase I don&quot;&quot;t have the TIME to do it
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+  </item>
+  <item nodeId="node-0x1e99790">
+    <command xml:space="preserve">take watch</command>
+    <result xml:space="preserve">It&apos;s a 300$ Watch. Dad says : I&apos;m not gonna fix that watch if you get it... because I don&apos;t have the TIME to do it
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1e99910"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1e99910">
+    <command xml:space="preserve">inventory</command>
+    <result xml:space="preserve">You are carrying nothing.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+  </item>
+  <item nodeId="node-0x1e99a90">
+    <command xml:space="preserve">l</command>
+    <result xml:space="preserve">Sephora Shop
+Your Daughter can&apos;t find a concealer and asks the cashier for help, you come to the rescue with &quot;Wow, sounds like it&apos;s some good stuff then.&quot;
+
+You can see Watch and Fish Tank here.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1e99c10"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1e99c10">
+    <command xml:space="preserve">take Fish Tank</command>
+    <result xml:space="preserve">Why do fish live in saltwater? Because pepperwater makes them sneezeDaughter Embarrassment Level is at 10 of 100.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+  </item>
+  <item nodeId="node-0x1e99d90">
+    <command xml:space="preserve">take Fish Take</command>
+    <result xml:space="preserve">I only understood you as far as wanting to take Fish Tank.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1e99f10"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1e99f10">
+    <command xml:space="preserve">take Fish Tank</command>
+    <result xml:space="preserve">Why do fish live in saltwater? Because pepperwater makes them sneeze
+Daughter Embarrassment Level is at 10 of 100.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1ec1190"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1ec1190">
+    <command xml:space="preserve">take Fish Ta</command>
+    <result xml:space="preserve">I only understood you as far as wanting to take Fish Tank.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1ec1310"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1ec1310">
+    <command xml:space="preserve">x self</command>
+    <result xml:space="preserve">As good-looking as ever.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1ec1490"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1ec1490">
+    <command xml:space="preserve">x self</command>
+    <result xml:space="preserve">As good-looking as ever.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1ec1610"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1ec1610">
+    <command xml:space="preserve"></command>
+    <result xml:space="preserve">I beg your pardon?
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+  </item>
+  <item nodeId="node-0x1ec1790">
+    <command xml:space="preserve">hello</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1ec1910"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1ec1910">
+    <command xml:space="preserve">go west</command>
+    <result xml:space="preserve">
+Shop 2
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1ec1a90"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1ec1a90">
+    <command xml:space="preserve">talk to cashier</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1ec1c10"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1ec1c10">
+    <command xml:space="preserve">l</command>
+    <result xml:space="preserve">Shop 2
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1ec1d90"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1ec1d90">
+    <command xml:space="preserve">l</command>
+    <result xml:space="preserve">Shop 2
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1ec1f10"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1ec1f10">
+    <command xml:space="preserve">l</command>
+    <result xml:space="preserve">Shop 2
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1f01130"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1f01130">
+    <command xml:space="preserve">l</command>
+    <result xml:space="preserve">Shop 2
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1f012b0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1f012b0">
+    <command xml:space="preserve">l</command>
+    <result xml:space="preserve">Shop 2
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1f01430"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1f01430">
+    <command xml:space="preserve"></command>
+    <result xml:space="preserve">I beg your pardon?
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1f015b0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1f015b0">
+    <command xml:space="preserve">ll</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1f01730"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1f01730">
+    <command xml:space="preserve">l</command>
+    <result xml:space="preserve">Shop 2
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1f018b0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1f018b0">
+    <command xml:space="preserve">l</command>
+    <result xml:space="preserve">Shop 2
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1f01a30"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1f01a30">
+    <command xml:space="preserve">l</command>
+    <result xml:space="preserve">Shop 2
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1f01bb0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1f01bb0">
+    <command xml:space="preserve">l</command>
+    <result xml:space="preserve">Shop 2
+Your Daughter has bought an item and moved to Shop 5
+[Your score has just gone down by one hundred and twelve points.]
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1f01d30"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1f01d30">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">
+Aisle
+Shops all around.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1f01eb0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1f01eb0">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">
+Shop 5
+You can see Daughter here.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+  </item>
+  <item nodeId="node-0x1f28130">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">
+Music Shop
+ahhhhh the birthplace of greatness.
+
+You can see a Guitar, a Tuba, a Trumpet and a Piano here.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1f282b0"/>
+      <child nodeId="node-0x1f28bb0"/>
+      <child nodeId="node-0x2124ac0"/>
+      <child nodeId="node-0x218ad40"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1f282b0">
+    <command xml:space="preserve">take guitar</command>
+    <result xml:space="preserve">Taken.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1f28430"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1f28430">
+    <command xml:space="preserve">take tuba</command>
+    <result xml:space="preserve">Hey (daughter),  What&apos;s the difference between a tuba and a vacuum cleaner? You have to turn one of them on before it sucks.
+
+Daughter Embarrassment Level is at 10 of 50.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1f285b0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1f285b0">
+    <command xml:space="preserve">take trumpet</command>
+    <result xml:space="preserve">you see a trumpet say to your daughter: what&apos;s the loudest kind of pet? a trumpet
+Daughter Embarrassment Level is at 20 of 50.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1f28730"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1f28730">
+    <command xml:space="preserve">take trumpet</command>
+    <result xml:space="preserve">you see a trumpet say to your daughter: what&apos;s the loudest kind of pet? a trumpet
+Daughter Embarrassment Level is at 30 of 50.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1f288b0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1f288b0">
+    <command xml:space="preserve">take trumpet</command>
+    <result xml:space="preserve">you see a trumpet say to your daughter: what&apos;s the loudest kind of pet? a trumpet
+Daughter Embarrassment Level is at 40 of 50.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1f28a30"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1f28a30">
+    <command xml:space="preserve">take trumpet</command>
+    <result xml:space="preserve">you see a trumpet say to your daughter: what&apos;s the loudest kind of pet? a trumpet
+Daughter Embarrassment Level is at 50 of 50.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+  </item>
+  <item nodeId="node-0x1f28bb0">
+    <command xml:space="preserve">take trumpet</command>
+    <result xml:space="preserve">you see a trumpet say to your daughter: what&apos;s the loudest kind of pet? a trumpet
+Daughter Embarrassment Level is at 10 of 50.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1f28d30"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1f28d30">
+    <command xml:space="preserve">take trumpet</command>
+    <result xml:space="preserve">you see a trumpet say to your daughter: what&apos;s the loudest kind of pet? a trumpet
+Daughter Embarrassment Level is at 20 of 50.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1f28eb0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1f28eb0">
+    <command xml:space="preserve">take trumpet</command>
+    <result xml:space="preserve">you see a trumpet say to your daughter: what&apos;s the loudest kind of pet? a trumpet
+Daughter Embarrassment Level is at 30 of 50.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1f7a160"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1f7a160">
+    <command xml:space="preserve">take trumpet</command>
+    <result xml:space="preserve">you see a trumpet say to your daughter: what&apos;s the loudest kind of pet? a trumpet
+Daughter Embarrassment Level is at 40 of 50.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1f7a2e0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1f7a2e0">
+    <command xml:space="preserve">take trumpet</command>
+    <result xml:space="preserve">you see a trumpet say to your daughter: what&apos;s the loudest kind of pet? a trumpet
+Daughter Embarrassment Level is at 50 of 50.
+
+
+
+    *** The End ***
+
+
+In that game you scored 500 out of a possible 0, in 6 turns.
+
+
+Would you like to RESTART, RESTORE a saved game, QUIT or UNDO the last command?
+&gt; </result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1f7a460"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1f7a460">
+    <command xml:space="preserve">restart</command>
+    <result xml:space="preserve">
+
+
+FirstProj
+An Interactive Fiction by Daniel Justice
+Release 1 / Serial number 170327 / Inform 7 build 6M62 (I6/v6.33 lib 6/12N) SD
+
+Aisle
+Shops all around.
+
+You can see Daughter here.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1f7a5e0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1f7a5e0">
+    <command xml:space="preserve">look</command>
+    <result xml:space="preserve">Aisle
+Shops all around.
+
+You can see Daughter here.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1f7a760"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1f7a760">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">
+Shop 5
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1f7a8e0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1f7a8e0">
+    <command xml:space="preserve">look</command>
+    <result xml:space="preserve">Shop 5
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1f7aa60"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1f7aa60">
+    <command xml:space="preserve">west</command>
+    <result xml:space="preserve">
+Aisle
+Shops all around.
+
+You can see Daughter here.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1f7abe0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1f7abe0">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">
+Music Shop
+ahhhhh the birthplace of greatness.
+
+You can see a Guitar, a Tuba, a Trumpet and a Piano here.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1f7ad60"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1f7ad60">
+    <command xml:space="preserve">look at tuba</command>
+    <result xml:space="preserve">This instrument reminds you of band class.  The class where the man told you how to play music instead of letting it flow from your inner Rocker!
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1f7aee0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1f7aee0">
+    <command xml:space="preserve">take tuba</command>
+    <result xml:space="preserve">Hey (daughter),  What&apos;s the difference between a tuba and a vacuum cleaner? You have to turn one of them on before it sucks.
+
+Daughter Embarrassment Level is at 10 of 50.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1fa2180"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1fa2180">
+    <command xml:space="preserve">i</command>
+    <result xml:space="preserve">You are carrying nothing.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1fa2300"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1fa2300">
+    <command xml:space="preserve">take tuba</command>
+    <result xml:space="preserve">Hey (daughter),  What&apos;s the difference between a tuba and a vacuum cleaner? You have to turn one of them on before it sucks.
+
+Daughter Embarrassment Level is at 20 of 50.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1fa2480"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1fa2480">
+    <command xml:space="preserve">take trumpe</command>
+    <result xml:space="preserve">You can&apos;t see any such thing.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1fa2600"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1fa2600">
+    <command xml:space="preserve">take trumpet</command>
+    <result xml:space="preserve">you see a trumpet say to your daughter: what&apos;s the loudest kind of pet? a trumpet
+Daughter Embarrassment Level is at 30 of 50.
+
+Your Daughter has bought an item and moved to Music Shop
+[Your score has just gone down by sixty-nine points.]
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1fa2780"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1fa2780">
+    <command xml:space="preserve">where is daughter </command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1fa2900"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1fa2900">
+    <command xml:space="preserve">take piano</command>
+    <result xml:space="preserve">I broke my wrist 10 years ago and I went to the doctor to fix it. and I asked the doctor if I&apos;m able to play the piano after the healing process and the doctor said I could. I said: Good because I couldn&apos;t before.
+
+Daughter Embarrassment Level is at 40 of 50.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1fa2a80"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1fa2a80">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">You can&apos;t go that way.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1fa2c00"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1fa2c00">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">
+Aisle
+Shops all around.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1fa2d80"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1fa2d80">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">
+Northern Aisle
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1fa2f00"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1fa2f00">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">
+Shop 4
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1fe01a0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1fe01a0">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">
+Northern Aisle
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1fe0320"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1fe0320">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">
+Victoria&apos;s Secret
+The most awkward store for a Dad to enter.  Your Daughter is far too young for this store.
+
+You can see Underwear and Push-Up Bra here.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1fe04a0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1fe04a0">
+    <command xml:space="preserve">look at underwear</command>
+    <result xml:space="preserve">The back side says &quot;Too Hot For You.&quot; But you know its not too hot for you, its room temperature to the touch. Your Daughter probably needs to know this.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1fe0620"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1fe0620">
+    <command xml:space="preserve">take underwear</command>
+    <result xml:space="preserve">
+Daughter Embarrassment Level is at 50 of 50.
+
+Taken.
+
+
+
+    *** The End ***
+
+
+In that game you scored 431 out of a possible 0, in 19 turns.
+
+
+Would you like to RESTART, RESTORE a saved game, QUIT or UNDO the last command?
+&gt; </result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1fe07a0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1fe07a0">
+    <command xml:space="preserve"></command>
+    <result xml:space="preserve">Please give one of the answers above.
+
+Would you like to RESTART, RESTORE a saved game, QUIT or UNDO the last command?
+&gt; </result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1fe0920"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1fe0920">
+    <command xml:space="preserve">restart</command>
+    <result xml:space="preserve">
+
+
+FirstProj
+An Interactive Fiction by Daniel Justice
+Release 1 / Serial number 170327 / Inform 7 build 6M62 (I6/v6.33 lib 6/12N) SD
+
+Aisle
+Shops all around.
+
+You can see Daughter here.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1fe0aa0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1fe0aa0">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">
+Music Shop
+ahhhhh the birthplace of greatness.
+
+You can see a Guitar, a Tuba, a Trumpet and a Piano here.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1fe0c20"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1fe0c20">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">
+Aisle
+Shops all around.
+
+You can see Daughter here.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1fe0da0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1fe0da0">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">
+Southern Aisle
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1fe0f20"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1fe0f20">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">
+Aisle
+Shops all around.
+
+You can see Daughter here.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x20081c0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x20081c0">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">
+Northern Aisle
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x2008340"/>
+    </children>
+  </item>
+  <item nodeId="node-0x2008340">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">
+Aisle
+Shops all around.
+
+You can see Daughter here.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x20084c0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x20084c0">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x2008640"/>
+    </children>
+  </item>
+  <item nodeId="node-0x2008640">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x20087c0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x20087c0">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x2008940"/>
+    </children>
+  </item>
+  <item nodeId="node-0x2008940">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.
+
+Your Daughter has bought an item and moved to Music Shop
+[Your score has just gone down by ninety-seven points.]
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x2008ac0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x2008ac0">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x2008c40"/>
+    </children>
+  </item>
+  <item nodeId="node-0x2008c40">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">
+Shop 5
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x2008dc0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x2008dc0">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">
+Aisle
+Shops all around.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x2008f40"/>
+    </children>
+  </item>
+  <item nodeId="node-0x2008f40">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">
+Music Shop
+ahhhhh the birthplace of greatness.
+
+You can see Daughter, a Guitar, a Tuba, a Trumpet and a Piano here.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x2059130"/>
+    </children>
+  </item>
+  <item nodeId="node-0x2059130">
+    <command xml:space="preserve">talk to daughter</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x20592b0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x20592b0">
+    <command xml:space="preserve">daughter</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x2059430"/>
+    </children>
+  </item>
+  <item nodeId="node-0x2059430">
+    <command xml:space="preserve">look at trumpet</command>
+    <result xml:space="preserve">You see nothing special about the Trumpet.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x20595b0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x20595b0">
+    <command xml:space="preserve">take trumpet</command>
+    <result xml:space="preserve">you see a trumpet say to your daughter: what&apos;s the loudest kind of pet? a trumpet
+Daughter Embarrassment Level is at 10 of 50.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x2059730"/>
+    </children>
+  </item>
+  <item nodeId="node-0x2059730">
+    <command xml:space="preserve">take trumpet </command>
+    <result xml:space="preserve">you see a trumpet say to your daughter: what&apos;s the loudest kind of pet? a trumpet
+Daughter Embarrassment Level is at 20 of 50.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x20598b0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x20598b0">
+    <command xml:space="preserve">take trumpet </command>
+    <result xml:space="preserve">you see a trumpet say to your daughter: what&apos;s the loudest kind of pet? a trumpet
+Daughter Embarrassment Level is at 30 of 50.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x2059a30"/>
+    </children>
+  </item>
+  <item nodeId="node-0x2059a30">
+    <command xml:space="preserve">take trumpet </command>
+    <result xml:space="preserve">you see a trumpet say to your daughter: what&apos;s the loudest kind of pet? a trumpet
+Daughter Embarrassment Level is at 40 of 50.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x2059bb0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x2059bb0">
+    <command xml:space="preserve">zz</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x2059d30"/>
+    </children>
+  </item>
+  <item nodeId="node-0x2059d30">
+    <command xml:space="preserve">zz</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x2059eb0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x2059eb0">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.
+
+Your Daughter has bought an item and moved to Music Shop
+[Your score has just gone down by ninety-eight points.]
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x2082160"/>
+    </children>
+  </item>
+  <item nodeId="node-0x2082160">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x20822e0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x20822e0">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x2082460"/>
+    </children>
+  </item>
+  <item nodeId="node-0x2082460">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x20825e0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x20825e0">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x2082760"/>
+    </children>
+  </item>
+  <item nodeId="node-0x2082760">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x20828e0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x20828e0">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x2082a60"/>
+    </children>
+  </item>
+  <item nodeId="node-0x2082a60">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x2082be0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x2082be0">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x2082d60"/>
+    </children>
+  </item>
+  <item nodeId="node-0x2082d60">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x2082ee0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x2082ee0">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.
+
+Your Daughter has bought an item and moved to Music Shop
+[Your score has just gone down by fifty-five points.]
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x20be140"/>
+    </children>
+  </item>
+  <item nodeId="node-0x20be140">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x20be2c0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x20be2c0">
+    <command xml:space="preserve"></command>
+    <result xml:space="preserve">I beg your pardon?
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x20be440"/>
+    </children>
+  </item>
+  <item nodeId="node-0x20be440">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x20be5c0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x20be5c0">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x20be740"/>
+    </children>
+  </item>
+  <item nodeId="node-0x20be740">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x20be8c0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x20be8c0">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x20bea40"/>
+    </children>
+  </item>
+  <item nodeId="node-0x20bea40">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x20bebc0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x20bebc0">
+    <command xml:space="preserve"></command>
+    <result xml:space="preserve">I beg your pardon?
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x20bed40"/>
+    </children>
+  </item>
+  <item nodeId="node-0x20bed40">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x20beec0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x20beec0">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x20e71c0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x20e71c0">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x20e7340"/>
+    </children>
+  </item>
+  <item nodeId="node-0x20e7340">
+    <command xml:space="preserve">zz</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x20e74c0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x20e74c0">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.
+
+Your Daughter has bought an item and moved to Victoria&apos;s Secret
+[Your score has just gone down by thirty points.]
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x20e7640"/>
+    </children>
+  </item>
+  <item nodeId="node-0x20e7640">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x20e77c0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x20e77c0">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x20e7940"/>
+    </children>
+  </item>
+  <item nodeId="node-0x20e7940">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x20e7ac0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x20e7ac0">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x20e7c40"/>
+    </children>
+  </item>
+  <item nodeId="node-0x20e7c40">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x20e7dc0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x20e7dc0">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x20e7f40"/>
+    </children>
+  </item>
+  <item nodeId="node-0x20e7f40">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x21241c0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x21241c0">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x2124340"/>
+    </children>
+  </item>
+  <item nodeId="node-0x2124340">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x21244c0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x21244c0">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.
+
+Your Daughter has bought an item and moved to Music Shop
+[Your score has just gone down by forty points.]
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x2124640"/>
+    </children>
+  </item>
+  <item nodeId="node-0x2124640">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x21247c0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x21247c0">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x2124940"/>
+    </children>
+  </item>
+  <item nodeId="node-0x2124940">
+    <command xml:space="preserve">take trumpet </command>
+    <result xml:space="preserve">you see a trumpet say to your daughter: what&apos;s the loudest kind of pet? a trumpet
+Daughter Embarrassment Level is at 50 of 50.
+
+
+
+    *** The End ***
+
+
+In that game you scored 180 out of a possible 0, in 53 turns.
+
+
+Would you like to RESTART, RESTORE a saved game, QUIT or UNDO the last command?
+&gt; </result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+  </item>
+  <item nodeId="node-0x2124ac0">
+    <command xml:space="preserve">l</command>
+    <result xml:space="preserve">Music Shop
+ahhhhh the birthplace of greatness.
+
+You can see a Guitar, a Tuba, a Trumpet and a Piano here.
+
+Your Daughter has moved to Victoria&apos;s Secret
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x2124c40"/>
+    </children>
+  </item>
+  <item nodeId="node-0x2124c40">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">
+Aisle
+Shops all around.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x2124dc0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x2124dc0">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">
+Northern Aisle
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x2124f40"/>
+    </children>
+  </item>
+  <item nodeId="node-0x2124f40">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">
+Victoria&apos;s Secret
+The most awkward store for a Dad to enter.  Your Daughter is far too young for this store.
+
+You can see Daughter, Underwear and Push-Up Bra here.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x214c120"/>
+    </children>
+  </item>
+  <item nodeId="node-0x214c120">
+    <command xml:space="preserve">take underwear</command>
+    <result xml:space="preserve">
+Daughter Embarrassment Level is at 10 of 50.
+
+Taken.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x214c2a0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x214c2a0">
+    <command xml:space="preserve">take push-up bra</command>
+    <result xml:space="preserve">
+Daughter Embarrassment Level is at 20 of 50.
+
+Taken.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x214c420"/>
+    </children>
+  </item>
+  <item nodeId="node-0x214c420">
+    <command xml:space="preserve">l</command>
+    <result xml:space="preserve">Victoria&apos;s Secret
+The most awkward store for a Dad to enter.  Your Daughter is far too young for this store.
+
+You can see Daughter here.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x214c5a0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x214c5a0">
+    <command xml:space="preserve">l</command>
+    <result xml:space="preserve">Victoria&apos;s Secret
+The most awkward store for a Dad to enter.  Your Daughter is far too young for this store.
+
+You can see Daughter here.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x214c720"/>
+    </children>
+  </item>
+  <item nodeId="node-0x214c720">
+    <command xml:space="preserve">l</command>
+    <result xml:space="preserve">Victoria&apos;s Secret
+The most awkward store for a Dad to enter.  Your Daughter is far too young for this store.
+
+You can see Daughter here.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x214c8a0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x214c8a0">
+    <command xml:space="preserve">l</command>
+    <result xml:space="preserve">Victoria&apos;s Secret
+The most awkward store for a Dad to enter.  Your Daughter is far too young for this store.
+
+You can see Daughter here.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x214ca20"/>
+    </children>
+  </item>
+  <item nodeId="node-0x214ca20">
+    <command xml:space="preserve">l</command>
+    <result xml:space="preserve">Victoria&apos;s Secret
+The most awkward store for a Dad to enter.  Your Daughter is far too young for this store.
+
+You can see Daughter here.
+
+Your Daughter has bought an item and moved to Sephora Shop
+[Your score has just gone down by one hundred and thirty-nine points.]
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x214cba0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x214cba0">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">
+Northern Aisle
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x214cd20"/>
+    </children>
+  </item>
+  <item nodeId="node-0x214cd20">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">
+Aisle
+Shops all around.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x214cea0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x214cea0">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">
+Southern Aisle
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x218a140"/>
+    </children>
+  </item>
+  <item nodeId="node-0x218a140">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">
+Sephora Shop
+Your Daughter can&apos;t find a concealer and asks the cashier for help, you come to the rescue with &quot;Wow, sounds like it&apos;s some good stuff then.&quot;
+
+You can see Daughter, Watch and Fish Tank here.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x218a2c0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x218a2c0">
+    <command xml:space="preserve">take watch</command>
+    <result xml:space="preserve">It&apos;s a 300$ Watch. Dad says : I&apos;m not gonna fix that watch if you get it... because I don&apos;t have the TIME to do it
+Daughter Embarrassment Level is at 30 of 50.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x218a440"/>
+    </children>
+  </item>
+  <item nodeId="node-0x218a440">
+    <command xml:space="preserve">take fish tank</command>
+    <result xml:space="preserve">Why do fish live in saltwater? Because pepperwater makes them sneeze
+Daughter Embarrassment Level is at 40 of 50.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x218a5c0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x218a5c0">
+    <command xml:space="preserve">l</command>
+    <result xml:space="preserve">Sephora Shop
+Your Daughter can&apos;t find a concealer and asks the cashier for help, you come to the rescue with &quot;Wow, sounds like it&apos;s some good stuff then.&quot;
+
+You can see Daughter, Watch and Fish Tank here.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x218a740"/>
+    </children>
+  </item>
+  <item nodeId="node-0x218a740">
+    <command xml:space="preserve">l</command>
+    <result xml:space="preserve">Sephora Shop
+Your Daughter can&apos;t find a concealer and asks the cashier for help, you come to the rescue with &quot;Wow, sounds like it&apos;s some good stuff then.&quot;
+
+You can see Daughter, Watch and Fish Tank here.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x218a8c0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x218a8c0">
+    <command xml:space="preserve">l</command>
+    <result xml:space="preserve">Sephora Shop
+Your Daughter can&apos;t find a concealer and asks the cashier for help, you come to the rescue with &quot;Wow, sounds like it&apos;s some good stuff then.&quot;
+
+You can see Daughter, Watch and Fish Tank here.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x218aa40"/>
+    </children>
+  </item>
+  <item nodeId="node-0x218aa40">
+    <command xml:space="preserve">l</command>
+    <result xml:space="preserve">Sephora Shop
+Your Daughter can&apos;t find a concealer and asks the cashier for help, you come to the rescue with &quot;Wow, sounds like it&apos;s some good stuff then.&quot;
+
+You can see Daughter, Watch and Fish Tank here.
+
+Your Daughter has bought an item and moved to Victoria&apos;s Secret
+[Your score has just gone down by eighty-four points.]
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x218abc0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x218abc0">
+    <command xml:space="preserve">take fish tank</command>
+    <result xml:space="preserve">Why do fish live in saltwater? Because pepperwater makes them sneeze
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+  </item>
+  <item nodeId="node-0x218ad40">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">You can&apos;t go that way.
+
+Your Daughter has moved to Aladdin&apos;s
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x218aec0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x218aec0">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">
+Aisle
+Shops all around.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x21b3180"/>
+    </children>
+  </item>
+  <item nodeId="node-0x21b3180">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">
+Southern Aisle
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x21b3300"/>
+    </children>
+  </item>
+  <item nodeId="node-0x21b3300">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">
+Sephora Shop
+Your Daughter can&apos;t find a concealer and asks the cashier for help, you come to the rescue with &quot;Wow, sounds like it&apos;s some good stuff then.&quot;
+
+You can see Watch and Fish Tank here.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x21b3480"/>
+    </children>
+  </item>
+  <item nodeId="node-0x21b3480">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">
+Southern Aisle
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x21b3600"/>
+    </children>
+  </item>
+  <item nodeId="node-0x21b3600">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">
+Piercing Pagoda
+How much did the pirate charge for an ear piercing?  A buck an ear!!!
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x21b3780"/>
+    </children>
+  </item>
+  <item nodeId="node-0x21b3780">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">
+Southern Aisle
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x21b3900"/>
+    </children>
+  </item>
+  <item nodeId="node-0x21b3900">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">
+Aisle
+Shops all around.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x21b3a80"/>
+    </children>
+  </item>
+  <item nodeId="node-0x21b3a80">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">
+Aladdin&apos;s
+There better be no man with a magic rug to take my Daughter!
+
+You can see Daughter and Eggs here.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x21b3c00"/>
+    </children>
+  </item>
+  <item nodeId="node-0x21b3c00">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">I&apos;ve eaten too much Middle Eastern food. Now I falafel
+Aisle
+Shops all around.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x21b3d80"/>
+    </children>
+  </item>
+  <item nodeId="node-0x21b3d80">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">
+Northern Aisle
+Your Daughter has bought an item and moved to Piercing Pagoda
+[Your score has just gone down by one hundred and twenty-seven points.]
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x21b3f00"/>
+    </children>
+  </item>
+  <item nodeId="node-0x21b3f00">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">
+Hot Topic
+Looks like a Vampire lair. Welcome to the Black Parade by My Chemical Romance is being played over the speakers.
+
+You can see a Studded Belt here.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x21f0190"/>
+    </children>
+  </item>
+  <item nodeId="node-0x21f0190">
+    <command xml:space="preserve">take studded Belt</command>
+    <result xml:space="preserve">Taken.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+  </item>
+  <item nodeId="node-0x21f0310">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">
+Aladdin&apos;s
+There better be no man with a magic rug to take my Daughter!
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x21f0490"/>
+    </children>
+  </item>
+  <item nodeId="node-0x21f0490">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">I&apos;ve eaten too much Middle Eastern food. Now I falafel
+Aisle
+Shops all around.
+
+You can see Daughter here.
+
+Your Daughter has moved to Hot Topic
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+  </item>
+</Skein>
